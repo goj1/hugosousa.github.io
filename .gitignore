@@ -2,14 +2,6 @@
 #
 .DS_Store
 
-# Project
-scss/
-gulpfile.js
-LICENSE
-package-lock.json
-package.json
-README.md
-
 # Xcode
 #
 build/
